@@ -5,7 +5,7 @@ import connectdb from "./config/mongodb.js";
 import userRouter from "./routes/userroutes.js";
 import imageRouter from "./routes/imageroutes.js";
 
-const PORT = process.env.port || 8000;
+const PORT = process.env.PORT || 8000;
 
 const app = express();
 
