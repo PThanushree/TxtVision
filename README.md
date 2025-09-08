@@ -32,12 +32,12 @@ TxtVision is a **MERN (MongoDB, Express, React, Node.js) application** that allo
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Axios, Tailwind CSS (optional)
+- **Frontend:** React, Axios, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
 - **Payment Gateway:** Razorpay
-- **Hosting:** Vercel (frontend), Render or Heroku (backend)
+- **Hosting:** Vercel (frontend), Render(backend)
 
 ---
 
